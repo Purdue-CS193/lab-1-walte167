@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+# Matthew Walters's first CS193 Lab
+
+## My Favorite Things about CS193
+- The class only meets once a week
+- The first lab was easy
+- The TAs are helpful
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
